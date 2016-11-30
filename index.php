@@ -23,7 +23,7 @@
         </ul>
 
         <footer>
-            <p>Jack Huaman   hola.jack@gmailcom</p>
+            <p>Jack Huaman   hola.jack@gmail.com</p>
         </footer>
 
 </body>
