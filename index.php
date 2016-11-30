@@ -22,6 +22,9 @@
           <li><a href="#">Proyect in progress</a></li>
         </ul>
 
+        <footer>
+            <p>Jack Huaman   hola.jack@gmailcom</p>
+        </footer>
 
 </body>
 </html>
