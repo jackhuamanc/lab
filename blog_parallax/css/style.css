@@ -1,0 +1,88 @@
+* {
+	padding: 0px;
+	margin: 0px;
+	}
+
+.banner {
+	background: url(../img/Header.jpg);
+	background-repeat:repeat;
+	background-size:contain;
+	background-position: center;
+	background-attachment: fixed;
+	height: 180px;
+	margin-bottom: 8rem;
+}
+
+/*
+.banner img {
+	width: auto;
+}
+*/
+
+#logo_contenedor {
+	box-sizing: border-box;
+	margin: 0px auto;
+	position: relative;
+	text-align: center;
+
+}
+
+#logo_contenedor .logo {
+	max-width: 30%;
+	margin-top: 8rem;
+	}
+
+
+H1 {
+	font-family: 'Raleway', sans-serif;
+	font-size: 36px;
+	color: #333333;
+	letter-spacing: 0;
+	margin-left: 10%;
+	margin-right: 10%;
+}
+
+h2 {
+	font-family: 'Raleway', sans-serif;
+	font-size: 18px;
+	color: #a7a996;
+	letter-spacing: 0;
+	line-height: 24px;
+	margin-left: 10%;
+	margin-right: 10%;
+	padding-bottom: 30px;
+}
+
+p {
+	font-family: 'Raleway', sans-serif;
+	font-size: 20px;
+	color: #333333;
+	letter-spacing: 0;
+	line-height: 34px;
+	margin-left: 10%;
+	margin-right: 10%;
+	margin-bottom: 8rem;
+}
+
+
+
+@media (min-width: 800px) {
+	.banner {
+		height: 400px;
+		width: 100%;
+	}
+
+	.contenedor {
+		width: 800px;
+		margin: 0 auto;
+
+	}
+
+	#logo_contenedor .logo {
+	max-width: 100%;
+	margin-top:21rem;
+
+
+	}
+
+}
